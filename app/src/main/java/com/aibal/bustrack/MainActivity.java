@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Button ab = findViewById(R.id.button2);
         Button sch = findViewById(R.id.button3);
         Button pro = findViewById(R.id.button4);
-        Intent a = new Intent(this, MapsActivity.class);
+        Intent a = new Intent(this, Status.class);
         Intent b = new Intent(this, About.class );
         Intent c = new Intent(this, Detail.class);
         Intent d = new Intent(this, Profile.class );
