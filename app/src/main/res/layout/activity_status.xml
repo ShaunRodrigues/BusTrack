@@ -62,7 +62,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="420"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView24"
@@ -71,7 +71,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="Saki Naka"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView25"
@@ -80,7 +80,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="Arrived"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
         </TableRow>
 
@@ -95,7 +95,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="69"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView27"
@@ -104,7 +104,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="CSMT"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView28"
@@ -113,7 +113,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="Late"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -127,7 +127,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="32"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView30"
@@ -145,7 +145,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
                 android:text="Early"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -167,7 +167,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
-                android:text="Antartica"
+                android:text="Dombivili"
                 android:textSize="24sp" />
 
             <TextView
@@ -231,7 +231,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
-                android:text="Moon"
+                android:text="Mulund"
                 android:textSize="24sp" />
 
             <TextView
@@ -295,7 +295,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
                 android:layout_weight="0.5"
-                android:text="Mars"
+                android:text="Satara"
                 android:textSize="24sp" />
 
             <TextView
